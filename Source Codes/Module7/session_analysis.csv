@@ -1,0 +1,2 @@
+Session Duration (seconds),Total Session Packets,Protocols Used,Total Bytes Src to Dst,Total Bytes Dst to Src,Successful TCP Handshake,Network Service on Destination,Number of ACK Packets
+42.41429,12590,"OCSP, HTTP, XML, DNS, TCP, TLS, ARP, DATA-TEXT-LINES, DATA",0,6221504,False,443,12477
